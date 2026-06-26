@@ -2,7 +2,7 @@
 title: Journal paper - 'Towards a Semantics-Based Recommendation System for Cultural Heritage Collections'
 date: 2026-06-26 17:55:00 +0100
 categories: [Publications]
-tags: [GraphDatabase]
+tags: [Graph Database, Recommendation system, cultural heritage]
 ---
 
 The paper [**"Towards a Semantics-Based Recommendation System for Cultural Heritage Collections"**](https://www.mdpi.com/2076-3417/13/15/8907) was published in August, 2023. It introduces an architecture of recommentation system for cultural heritage resources.
