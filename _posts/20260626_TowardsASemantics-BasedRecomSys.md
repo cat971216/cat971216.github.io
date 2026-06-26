@@ -1,11 +1,11 @@
 ---
-title: Journal paper - "Towards a Semantics-Based Recommendation System for Cultural Heritage Collections"
-date: 2026-06-26 17:55:00
+title: Journal paper - 'Towards a Semantics-Based Recommendation System for Cultural Heritage Collections'
+date: 2026-06-26 17:55:00 +0100
 categories: [Publications]
-tags: [Graph Database][Recommendation System][Cultural Heritage][Linked Data][Digital Humanities]
+tags: [Graph Database, Recommendation System, Cultural Heritage, Linked Data, Digital Humanities]
 ---
 
-The paper [**"Towards a Semantics-Based Recommendation System for Cultural Heritage Collections"**](https://www.mdpi.com/2076-3417/13/15/8907) was published in August, 2023. It introduces an architecture of recommentation system for cultural heritage resouces.
+The paper [**"Towards a Semantics-Based Recommendation System for Cultural Heritage Collections"**](https://www.mdpi.com/2076-3417/13/15/8907) was published in August, 2023. It introduces an architecture of recommentation system for cultural heritage resources.
 
 The system (the architecture) was developend on *Neo4j*, a (probably the most popular) graph database platform, with the algorithms provided by Neo4j via *Graph Data Science Library*. All codes (in cypher, the query langugage for Neo4j) and the example dataset (open linked dataset) are provided in the paper.
 
