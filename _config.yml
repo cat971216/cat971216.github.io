@@ -16,7 +16,7 @@ timezone:
 
 title: Aria # the main title
 
-tagline: PhD blog space # it will display as the subtitle
+tagline: Thoughts on research: digital humanities, cultural heritage, semantic technologies, and more # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A blog space for sharing research in digital humanities.
@@ -34,7 +34,7 @@ url: ""
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Jiayu Li
   email: jiayu.li.21@ucl.ac.uk # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
