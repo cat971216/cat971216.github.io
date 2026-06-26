@@ -20,5 +20,4 @@ My research interests lie in:
 - Museum studies
 - Digital humanities 
 
-Welcome to contact me via email: jiayu.li.21@ucl.ac.uk
-Or visit me at: https://profiles.ucl.ac.uk/88210-jiayu-li
+Welcome to contact me via email: <u>jiayu.li.21@ucl.ac.uk</u>, or visit my [organisation webpage](https://profiles.ucl.ac.uk/88210-jiayu-li).
